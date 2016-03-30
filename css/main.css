@@ -335,4 +335,156 @@ footer p{
 	color:#999;
 	margin-top:50px;
 }
+@media (max-width:1854px){
+.customers p{
+		font-size:15px;
+		text-align:center;
+	}
+@media (max-width:1824px){
+header h1{
+	font-size:40px;
+}
+.arrow-left{
+	top:0px;
+}
+@media (max-width:1784px){
+.arrow-left{
+	display:none;
+}
+.meet a, .meet p{
+	display:none;
+}
+@media (max-width:1630px){
+.customers h2{
+	font-size:30px;
+	line-height:30px;
+}
+@media (max-width:1630px){
+.rework h2{
+	font-size:30px;
+}
+.customers{
+	text-align:center;
+}
+.customers h2{
+	padding:30px;
+}
+.customers p, .globe,.arrow-right, .crumple, .column, .column-end{
+	display:none;
+}
+@media (max-width:1600px){
+.rework h2{
+	font-size:30px;
+}
+@media (max-width:1512px){
+.manifesto h2{
+	font-size:30px;
+}
+.customers h2{
+	font-size:20px;
+}
+.quotes h3, .quotes p{
+	display:none;
+}
+.book{
+	float:none;
+	text-align:center;
+}
+@media (max-width:1452px){
+.customers h2{
+	display:none;
+}
+@media (max-width:1424px){
+header h1{
+	font-size:25px;
+}
+header p{
+	display:none;
+}
+.rework h2{
+	font-size:25px;
+}
+.manifesto h2{
+	font-size:20px;
+}
+@media (max-width:1352px){
+.product p{
+	display:none;
+}
+@media (max-width:1252px){
+span{
+	display:none;
+}
+@media (max-width:1230px){
+.offerings h2{
+	font-size:30px;
+}
+header h1{
+	font-size:20px;
+}
+@media (max-width:1089px){
+.product a{
+	margin:5px 10px;
+}
+@media (max-width:976px){
+.customers, hr{
+	display:none;
+}
+.product a:first-child{
+	margin-left:15%;
+}
+@media (max-width:925px){
+nav ul{
+	text-align:center;
+	float:none;
+}
+.product{
+	height:0px;
+}
+.rework h2{
+	font-size:20px;
+}
+@media (max-width:889px){
+.manifesto h2,.product a{
+	display:none;
+}
+@media (max-width:769px){
+.offerings h2{
+	font-size:20px;
+}
+@media (max-width:769px){
+.rework h2{
+	font-size:15px;
+	line-height:20px;
+}
+@media (max-width:660px){
+header h1{
+	font-size:15px;
+	line-height:20px;
+}
+footer p{
+	display:none;
+}
+@media (max-width:576px){
+nav li{
+	padding:0px;
+}
+@media (max-width:576px){
+nav li{
+	display:none;
+}
+.rework h2{
+	font-size:15px;
+}
+.manifesto{
+	display:none;
+}
+@media (max-width:523px){
+.rework h2{
+	font-size:10px;
+}
+.offerings h2{
+	font-size:15px;
+}
+
 
